@@ -12,7 +12,7 @@
 This study presents the development of a wearable system for predicting and early warning of Freezing of Gait (FoG) in Parkinson’s disease patients. FoG is a critical motor symptom that often occurs unexpectedly, increasing the risk of falls and serious injuries. The proposed system integrates an inertial measurement unit (MPU6050), real-time signal processing, and an optimized deep learning model to detect early signs of FoG.
 
 <p align="center">
-  <img src="MLP.png" alt="The Multi-Layer Perceptron" width="100%">
+  <img src="mlp.png" alt="The Multi-Layer Perceptron" width="100%">
 </p>
 <p align="center"><i>The Multi-Layer Perceptron architecture was designed by the research team.</i></p>
 
