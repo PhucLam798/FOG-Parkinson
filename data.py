@@ -63,4 +63,4 @@ if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
-        print("\n🛑 Dừng chương trình.")
+        print("\n Dừng chương trình.")
